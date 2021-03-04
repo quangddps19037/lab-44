@@ -206,6 +206,7 @@ body{
     
         .detail{
             width: 100%;
+            text-align: center;
         }
         .detail>.detail-image{
             width: 40%;
