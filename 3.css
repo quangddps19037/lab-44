@@ -7,7 +7,8 @@
     margin: 5px;
     padding: 5px;
     text-align: center;
-    position: relative;}
+    position: relative;
+}
 .prod>.name{
     font-variant: small-caps;
     color: orangered;}
